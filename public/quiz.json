@@ -1,0 +1,169 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is the capital of France?",
+            "options": [
+                "Berlin",
+                "Madrid",
+                "Paris",
+                "Rome"
+            ],
+            "answer": "Paris"
+        },
+        {
+            "id": 2,
+            "question": "Which planet is known as the Red Planet?",
+            "options": [
+                "Earth",
+                "Mars",
+                "Jupiter",
+                "Venus"
+            ],
+            "answer": "Mars"
+        },
+        {
+            "id": 3,
+            "question": "What is the largest ocean on Earth?",
+            "options": [
+                "Atlantic Ocean",
+                "Indian Ocean",
+                "Arctic Ocean",
+                "Pacific Ocean"
+            ],
+            "answer": "Pacific Ocean"
+        },
+        {
+            "id": 4,
+            "question": "What is the tallest mountain in the world?",
+            "options": [
+                "K2",
+                "Kangchenjunga",
+                "Mount Everest",
+                "Lhotse"
+            ],
+            "answer": "Mount Everest"
+        },
+        {
+            "id": 5,
+            "question": "Which element has the chemical symbol 'O'?",
+            "options": [
+                "Oxygen",
+                "Gold",
+                "Silver",
+                "Hydrogen"
+            ],
+            "answer": "Oxygen"
+        },
+        {
+            "id": 6,
+            "question": "Who wrote 'Romeo and Juliet'?",
+            "options": [
+                "Charles Dickens",
+                "William Shakespeare",
+                "Mark Twain",
+                "J.K. Rowling"
+            ],
+            "answer": "William Shakespeare"
+        },
+        {
+            "id": 7,
+            "question": "What is the smallest prime number?",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "5"
+            ],
+            "answer": "2"
+        },
+        {
+            "id": 8,
+            "question": "What is the main ingredient in guacamole?",
+            "options": [
+                "Tomatoes",
+                "Avocados",
+                "Peppers",
+                "Onions"
+            ],
+            "answer": "Avocados"
+        },
+        {
+            "id": 9,
+            "question": "Which gas do plants absorb from the atmosphere?",
+            "options": [
+                "Oxygen",
+                "Nitrogen",
+                "Carbon Dioxide",
+                "Helium"
+            ],
+            "answer": "Carbon Dioxide"
+        },
+        {
+            "id": 10,
+            "question": "What is the currency of Japan?",
+            "options": [
+                "Yen",
+                "Won",
+                "Dollar",
+                "Euro"
+            ],
+            "answer": "Yen"
+        },
+        {
+            "id": 11,
+            "question": "What is the largest mammal in the world?",
+            "options": [
+                "Elephant",
+                "Blue Whale",
+                "Giraffe",
+                "Great White Shark"
+            ],
+            "answer": "Blue Whale"
+        },
+        {
+            "id": 12,
+            "question": "Which country is known as the Land of the Rising Sun?",
+            "options": [
+                "China",
+                "Japan",
+                "Thailand",
+                "South Korea"
+            ],
+            "answer": "Japan"
+        },
+        {
+            "id": 13,
+            "question": "What is the freezing point of water?",
+            "options": [
+                "0°C",
+                "100°C",
+                "32°F",
+                "212°F"
+            ],
+            "answer": "0°C"
+        },
+        {
+            "id": 14,
+            "question": "Which continent is known as the Dark Continent?",
+            "options": [
+                "Asia",
+                "Africa",
+                "Australia",
+                "Antarctica"
+            ],
+            "answer": "Africa"
+        },
+        {
+            "id": 15,
+            "question": "What is the powerhouse of the cell?",
+            "options": [
+                "Nucleus",
+                "Mitochondria",
+                "Ribosome",
+                "Endoplasmic Reticulum"
+            ],
+            "answer": "Mitochondria"
+        }
+    ]
+}
