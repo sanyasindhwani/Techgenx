@@ -2,168 +2,168 @@
     "questions": [
         {
             "id": 1,
-            "question": "What is the capital of France?",
+            "question": "What does AI stand for in technology?",
             "options": [
-                "Berlin",
-                "Madrid",
-                "Paris",
-                "Rome"
+                "Automated Intelligence",
+                "Artificial Intelligence",
+                "Advanced Information",
+                "Automatic Integration"
             ],
-            "answer": "Paris"
+            "answer": "Artificial Intelligence"
         },
         {
             "id": 2,
-            "question": "Which planet is known as the Red Planet?",
+            "question": "Which social media platform is primarily for professional networking?",
             "options": [
-                "Earth",
-                "Mars",
-                "Jupiter",
-                "Venus"
+                "Facebook",
+                "Instagram",
+                "Linkedin",
+                "Twitter"
             ],
-            "answer": "Mars"
+            "answer": "Linkedin"
         },
         {
             "id": 3,
-            "question": "What is the largest ocean on Earth?",
+            "question": "What is the main pupose of a VPN",
             "options": [
-                "Atlantic Ocean",
-                "Indian Ocean",
-                "Arctic Ocean",
-                "Pacific Ocean"
+                "To speed up internet connection",
+                " To provide a secure connection over the internet",
+                "To block ads",
+                "To manage Wi-Fi networks"
             ],
-            "answer": "Pacific Ocean"
+            "answer": " To provide a secure connection over the internet"
         },
         {
             "id": 4,
-            "question": "What is the tallest mountain in the world?",
+            "question": "Which technology is used to create immersive experiences in games?",
             "options": [
-                "K2",
-                "Kangchenjunga",
-                "Mount Everest",
-                "Lhotse"
+                "Virtual Reality",
+                "2D graphics",
+                "HTML",
+                "Cloud Storage"
             ],
-            "answer": "Mount Everest"
+            "answer": "Virtual Reality"
         },
         {
             "id": 5,
-            "question": "Which element has the chemical symbol 'O'?",
+            "question": "*What does the term cloud computing refer to",
             "options": [
-                "Oxygen",
-                "Gold",
-                "Silver",
-                "Hydrogen"
+                "Data storage on local servers",
+                ") Using remote servers to store and manage data",
+                "Software running on personal computers",
+                "A type of web hosting service"
             ],
-            "answer": "Oxygen"
+            "answer": ") Using remote servers to store and manage data"
         },
         {
             "id": 6,
-            "question": "Who wrote 'Romeo and Juliet'?",
+            "question": "Which of the following is a popular cloud storage service?",
             "options": [
-                "Charles Dickens",
-                "William Shakespeare",
-                "Mark Twain",
-                "J.K. Rowling"
+                "Microsoft Word",
+                "Google drive",
+                "Adobe Photoshop",
+                "Excel"
             ],
-            "answer": "William Shakespeare"
+            "answer": "Google Drive"
         },
         {
             "id": 7,
-            "question": "What is the smallest prime number?",
+            "question": "What does "IoT" stand for?",
             "options": [
-                "1",
-                "2",
-                "3",
-                "5"
+                " Internet of Technology",
+                "Internet of Things",
+                " Interconnected Online Tools",
+                "nformation of Tomorrow"
             ],
-            "answer": "2"
+            "answer": "Internet of things"
         },
         {
             "id": 8,
-            "question": "What is the main ingredient in guacamole?",
+            "question": "Which programming language is often used for web development?",
             "options": [
-                "Tomatoes",
-                "Avocados",
-                "Peppers",
-                "Onions"
+                "Java",
+                "JavaScript",
+                "Ruby",
+                "C++"
             ],
-            "answer": "Avocados"
+            "answer": "JavaScript"
         },
         {
             "id": 9,
-            "question": "Which gas do plants absorb from the atmosphere?",
+            "question": "What is the main use of blockchain technology?",
             "options": [
-                "Oxygen",
-                "Nitrogen",
-                "Carbon Dioxide",
-                "Helium"
+                "storing Large Files",
+                "Securing transactions",
+                "Improving graphics",
+                "Managing Database"
             ],
-            "answer": "Carbon Dioxide"
+            "answer": "Securing Transaction"
         },
         {
             "id": 10,
-            "question": "What is the currency of Japan?",
+            "question": "What is a common use of machine learning today?*",
             "options": [
-                "Yen",
-                "Won",
-                "Dollar",
-                "Euro"
+                "Image Recognition",
+                "Manual Data Entry",
+                "Basic Programming",
+                "Writing Reports"
             ],
-            "answer": "Yen"
+            "answer": "Image Recognition"
         },
         {
             "id": 11,
-            "question": "What is the largest mammal in the world?",
+            "question": "Which framework is popular for building mobile applications?",
             "options": [
-                "Elephant",
-                "Blue Whale",
-                "Giraffe",
-                "Great White Shark"
+                "Angular",
+                "django",
+                "React Native",
+                "Ruby on Rails"
             ],
-            "answer": "Blue Whale"
+            "answer": "React Native"
         },
         {
             "id": 12,
-            "question": "Which country is known as the Land of the Rising Sun?",
+            "question": "What is the purpose of devOps",
             "options": [
-                "China",
-                "Japan",
-                "Thailand",
-                "South Korea"
+                "to create new programming Language",
+                "to improve collaboration between devlopment and operations",
+            "To design websites",
+                "To enhance game graphics"
             ],
-            "answer": "Japan"
+            "answer": "to improve collaboration between devlopment and operations"
         },
         {
             "id": 13,
-            "question": "What is the freezing point of water?",
+            "question": "What does 'phishing' mean in cybersecurity?",
             "options": [
-                "0°C",
-                "100°C",
-                "32°F",
-                "212°F"
+                "Hacking into networks",
+                "Attempting to trick users into giving up personal information",
+                "Spreading viruses",
+                " Bypassing security"
             ],
-            "answer": "0°C"
+            "answer": "Attempting to trick users into giving up personal information"
         },
         {
             "id": 14,
-            "question": "Which continent is known as the Dark Continent?",
+            "question": "What does a 'data scientist' primarily do?",
             "options": [
-                "Asia",
-                "Africa",
-                "Australia",
-                "Antarctica"
+                "write code for websites",
+                "analyse data to find trends",
+                "Manage hardware",
+                "Create graphics"
             ],
-            "answer": "Africa"
+            "answer": "Analyse data to find Trends"
         },
         {
             "id": 15,
-            "question": "What is the powerhouse of the cell?",
+            "question": "What technology is commonly used for online shopping and payments?*",
             "options": [
-                "Nucleus",
-                "Mitochondria",
-                "Ribosome",
-                "Endoplasmic Reticulum"
+                "Virtual score",
+                "Blockchain",
+                "E-commerce platforms",
+                "Cloud Storage"
             ],
-            "answer": "Mitochondria"
+            "answer": "E-commerce platforms"
         }
     ]
 }
