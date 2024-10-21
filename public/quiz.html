@@ -88,26 +88,26 @@
     <script>
         // Timer function
         function startTimer() {
-            let timeLimit = 1 * 60; // 15 minutes in seconds
-            let timerInterval;
+    let timeLimit = 10 * 60; // 10 minutes in seconds
+    let timerInterval;
 
-            const timerElement = document.getElementById('timer');
+    const timerElement = document.getElementById('timer');
 
-            timerInterval = setInterval(() => {
-                const minutes = Math.floor(timeLimit / 60);
-                const seconds = timeLimit % 60;
+    timerInterval = setInterval(() => {
+        const minutes = Math.floor(timeLimit / 60);
+        const seconds = timeLimit % 60;
 
-                timerElement.textContent = `Time left: ${minutes}:${seconds < 10 ? '0' : ''}${seconds}`;
+        timerElement.textContent = `Time left: ${minutes}:${seconds < 10 ? '0' : ''}${seconds}`;
 
-                // Check if time is up
-                if (timeLimit <= 0) {
-                    clearInterval(timerInterval); // Stop the timer
-                    submitQuiz(); // Automatically submit the quiz
-                }
-
-                timeLimit--; // Decrease the time limit
-            }, 1000);
+        // Check if time is up
+        if (timeLimit <= 0) {
+            clearInterval(timerInterval); // Stop the timer
+            submitQuiz(); // Automatically submit the quiz
         }
+
+        timeLimit--; // Decrease the time limit
+    }, 1000);
+}
         // Fetch the quiz questions from the server
         async function loadQuiz() {
             // Check if the quiz has already been completed
